@@ -27,6 +27,6 @@ O objetivo é criar uma página de **livraria digital** moderna, responsiva e co
 - **[Google Fonts](https://fonts.google.com/)** para tipografia
 
 ## Para acessar o Site
-- alurabook-completo-atual.vercel.app
+- https://alurabook-completo-atual.vercel.app
 - https://professora-chs.github.io/alurabookCompletoAtual/
 
